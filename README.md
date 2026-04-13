@@ -2,7 +2,7 @@ Banana jump
 
 ![Gameplay](./Assets/readme/gameplay.gif)
 
-Published on Google Play [Приложения в Google Play – Banana Jump](https://play.google.com/store/apps/details?id=com.UToTGames.BananaJump)
+Published on Google Play https://play.google.com/store/apps/details?id=com.UToTGames.BananaJump
 
 # 1. Project Context
 
